@@ -1,2 +1,2 @@
-# CmdComands
-Learning CMD
+# CMD Comands
+### Learning CMD
