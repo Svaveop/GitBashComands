@@ -5,5 +5,3 @@
 - mkdir
 - ls
 - cd
-  
-some of that command can be not aded yet.
