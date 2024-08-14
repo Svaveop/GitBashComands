@@ -1,5 +1,5 @@
-# CMD Comands (Git brush)
-### Here are few commands that are in this repo
+# CMD Comands (also Git brush)
+### Here are few commands that are in this repository
 - color
 - pwd
 - mkdir
