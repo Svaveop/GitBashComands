@@ -1,4 +1,4 @@
-# CMD Comands (also Git bash)
+# Git Bash Commands
 ### Here are few commands that are in this repository
 - color
 - pwd
